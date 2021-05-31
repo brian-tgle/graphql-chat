@@ -1,11 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![GitHub forks](https://img.shields.io/github/forks/saswatamcode/graphQLChat?style=social)](https://GitHub.com/saswatamcode/graphQLChat/network/)
-[![GitHub stars](https://img.shields.io/github/stars/saswatamcode/graphQLChat?style=social)](https://GitHub.com/saswatamcode/graphQLChat/stargazers/)
-[![GitHub issues](https://img.shields.io/github/issues/saswatamcode/graphQLChat.svg)](https://GitHub.com/saswatamcode/graphQLChat/issues/)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 # GraphQL Live Chat App
 A simple live GraphQL chat app built using React, Node, Apollo Server/Client and TypeGraphQL. Built for dev.to article series!
 
